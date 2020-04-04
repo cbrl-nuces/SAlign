@@ -1,0 +1,13 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*** CONNECTED COMPONENTS SIZE : 
+Nodes = 269
+Edges = 432
+===============================================================
+Topological Score : 0.1
+Biological Score : 0.9
+Structure Weight : 0.3
+Sequence Weight : 0.7
+G1:  Nodes : 744  - Edges : 1193
+G2:  Nodes : 10791  - Edges : 47001
+EC : 0.463956
+S3 : 0.203384

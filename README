@@ -1,0 +1,3 @@
+To reproduce the results reported in SAlign paper, use "Reproduce_Paper_Results" folder. This folder contains all the files that are used in alignment generation and evaluation.
+
+"SAlign and SAlign_mc Code" folder contains code with test example. If you want to run SAlign on your own collected datasets please run "SAlign and SAlign_mc Code" folder.
